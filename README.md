@@ -7,11 +7,25 @@ A 3rd year undergraduate student seeking an opportunity to leverage my skills an
 
 ### My skills include
 
-<p align="center">
-	<img title="Skill 1" alt="Skill 1" src="https://raw.githubusercontent.com/Your-Username/Your-Repository/master/assets/skill1.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Skill 2" alt="Skill 2" src="https://raw.githubusercontent.com/Your-Username/Your-Repository/master/assets/skill2.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-	<!-- Add more skills as needed -->
+<p align="left">
+<a target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></img></a>
+<br>
+<a target="_blank"><img src="https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Matlab-e69138?style=for-the-badge&logo=Matlab&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></img></a>
+<!-- Add more social links as needed -->
+
 </p>
+
 
 <hr>
 <p align="center">
@@ -19,7 +33,7 @@ A 3rd year undergraduate student seeking an opportunity to leverage my skills an
    <br>
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/natasha-gh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="greenough.na@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:greenough.na@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <!-- Add more social links as needed -->
 <br>
 </p>
