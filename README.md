@@ -1,6 +1,6 @@
 ### Hi👋 I'm Natasha,
 
-A 3rd year undergraduate student seeking an opportunity to leverage my skills and experiences. Particularly drawn to the field of data management and machine learning.
+A 4th year undergraduate student seeking an opportunity to leverage my skills and experiences. Particularly drawn to the field of data management and machine learning.
 
 - 🏫📐 Currently studying at King Mongkut's Institute of Technology Ladkrabang, Thailand.
 - 💻⚙️ Bachelor of Engineering in Computer Innovation Engineering (International program)
